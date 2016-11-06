@@ -1,0 +1,30 @@
+User Registration details:
+    First name
+    Last name
+    Email
+    Birthday
+    Password
+    Confirm Password
+User login details
+    Email
+    Password
+    Forget Password
+User Account Content
+     Control Panel: containing everything at  point
+                    Edit page that edit the details of the user of the account
+                    Address book:
+                            Main Page:
+                                Display of the Address(Your Address, Default Delivery Address[which is your address, if it is one, but if the address is more than one],Additional Address[a button to make it the default address or not and a delete button, which contains the additional address added by the user])
+                            Create Page:
+                                     First Name
+                                     Last Name
+                                     Telephone 1
+                                     Telephone 2(Optional)
+                                     Address
+                                     Landmark(Optional)
+                                     Region
+                                     City
+                            Edit Address Book Page(for both your address and additional address)
+
+
+

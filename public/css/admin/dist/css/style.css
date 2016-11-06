@@ -1,0 +1,26 @@
+.form-horizontal .label-wrapper .ico-help{
+	display: table-cell;
+    color: #3c8dbc;
+    font-size: 1.17em;
+    padding-left: 6px;
+}
+
+.form-horizontal .label-wrapper .control-label {
+    display: table-cell;
+}
+
+.form-horizontal .label-wrapper {
+    display: table;
+    float: right;
+    min-height: 28px;
+}
+
+.form-horizontal .label-wrapper .ico-help {
+    display: table-cell;
+    color: #3c8dbc;
+    font-size: 1.17em;
+    padding-left: 6px;
+}
+.form-horizontal .label-wrapper i.fa {
+    width: 16px;
+}
